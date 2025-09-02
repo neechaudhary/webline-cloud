@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "MyApp",
-      "script": "server.js"
+      "script": "index.js"
     }
   ]
 }
