@@ -14,7 +14,7 @@ app.use(cors({
 }))
 
 app.get("/", (req,res)=>{
-    res.send("hello world")
+    res.send("hello worl")
 })
 
 app.post("/api/contact", async(req,res)=>{
